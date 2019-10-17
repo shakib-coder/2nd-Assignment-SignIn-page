@@ -1,0 +1,125 @@
+* {
+	margin: 0px;
+}
+
+
+body {
+	background: url(../img/bgd-2.jpg)no-repeat;
+	background-size: cover;
+	font-family: 'Merriweather Sans', sans-serif;
+} 
+.container {
+	width: 540px;
+	margin: 10% auto;
+	display: block;
+	border-radius: 10px;
+
+}
+
+.login-part {
+	background-color: #7d7d7d80;
+	padding: 50px;
+	border-radius: 12px;
+
+
+}
+
+.login-part img {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    padding: 20px;
+    display: block;
+    
+
+}
+
+.login-part h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #fd2b01
+}
+
+.login-part h2 {
+	text-align: left;
+    font-size: 25px;
+    color: white
+
+}
+
+.Form-control {
+width: 100%;
+height: 32px;
+padding: 5px;
+margin-bottom: 15px;
+border: none;
+background-color: #fd2b01ab;
+font: inherit;
+border-radius: 8px;
+text-align: center;
+
+}
+
+.btn {
+
+    padding: 16px 16px;
+    color: #fd2b01;
+    width: 102%;
+    /* margin: 0 auto; */
+    /* display: block; */
+    border: none;
+    margin-bottom: 15px;
+    transition: 0.10s ease;
+    -webkit-transition: 0.10s ease;
+    -moz-transition: 0.10s ease;
+    -o-transition: 0.10s ease;
+    /*box-shadow: 1px 2px 4px #02040e;*/
+    border-radius: 8px;
+
+	
+}
+
+.btn:hover {
+	box-shadow: 2px 2px 3px #02040e;
+}
+
+.h-five {
+	text-align: center;
+	color: darkred;
+}
+
+.btn-2 {
+	padding: 10px;
+    background: #fd2b01;
+    color: #ffff;
+    border: none;
+    margin: 0 auto;
+    transition: 0.10s ease;
+    -webkit-transition: 0.10s ease;
+    -moz-transition: 0.10s ease;
+    -o-transition: 0.10s ease;
+    /*box-shadow: 1px 2px 4px #00bcd4;*/
+}
+
+.btn-2:hover {
+	box-shadow: 2px 2px 3px #00bcd4;
+}
+
+.btn-3 {
+	padding: 16px 32px;
+	display: block;
+    background: #ff4bfa;
+    border-radius: 6px;
+    color: #ffff;
+    border: none;
+    margin: 0 auto;
+    transition: 0.10s ease;
+    -webkit-transition: 0.10s ease;
+    -moz-transition: 0.10s ease;
+    -o-transition: 0.10s ease;
+    /*box-shadow: 1px 2px 4px #00bcd4;*/
+}
+
+.btn-3:hover {
+	box-shadow: 2px 2px 3px #00bcd4;
+}
